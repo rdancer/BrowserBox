@@ -196,7 +196,7 @@ BrowserBox aims for feature-parity with desktop and mobile browsers, but also to
 
 **Security Features**
 - [:heavy_check_mark:] RBI [browser isolation](https://en.wikipedia.org/wiki/Browser_isolation) security model
-- [:heavy_check_mark:] Fully clientless, embeds straight into a web page, zero download required for front-end
+- [:heavy_check_mark:] Fully clientless, embeds straight into a web page, zero download required for front end
 - [:heavy_check_mark:] [Evades](https://github.com/paulirish/headless-cat-n-mouse) [headless](https://github.com/infosimples/detect-headless) [detection](https://github.com/azerpas/detect-headless) 
 - [:heavy_check_mark:] Customizable browser-fingerprinting cross-section
 - [:heavy_check_mark:] Works with proxies and Tor
@@ -335,7 +335,7 @@ for upcoming new prices.
 <p>
 
 
-**Can I download files form the web using BB?**
+**Can I download files from the web using BB?**
 
 By default, for security, BB does not permit downloading of files to the local device, and instead downloads them to the remote server. In BB Pro, the built-in secure document viewer then processes and displays them if they are of a supported format. However, both Pro and Regular lines can be configured to provide a download link to get the file to the local device, although that is not recommended in security applications, at least not without proper scanning or CDR.
 
